@@ -1,0 +1,7 @@
+vendor_id,vendor_name,country,onboarded_date,lead_time_days,contract_value_usd,material_categories,last_modified
+VND-101,  apex pharma ingredients ltd  ,India,2024-03-15,14,125000.00,"API, Excipient",2026-09-10 09:00:00
+VND-101,Apex Pharma Ingredients Ltd,INDIA,15/03/2024,12,130000.00,"API, Excipient",2026-10-18 14:30:00
+VND-102,BioSynth Global Logistics,USA,2023/11/02,21,"$240,500.75","API, Biologics",2026-08-05 11:15:00
+VND-103,chemcore excipients pvt ltd,germany,10-01-2025,,85000,Excipient,2026-09-22 16:45:00
+VND-104,MediPack Solutions,UK,2025-06-20,-5,42000.00,Packaging,2026-10-01 10:00:00
+VND-105,NovaLab Reagents Inc,Canada,2024-08-12,18,TBD,"Reagents, Packaging",2026-09-14 08:20:00

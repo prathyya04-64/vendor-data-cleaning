@@ -1,0 +1,31 @@
+# Python temporary files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# Sensitive configuration files
+config.ini
+config/config.ini
+.env
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Generated output files
+data/output/*.csv
+output/*.csv
+
+# Log files
+logs/*.log
+
+# IDE and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

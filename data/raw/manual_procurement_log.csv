@@ -1,0 +1,5 @@
+vendor_id,vendor_name,country,onboarded_date,lead_time_days,contract_value_usd,material_categories,last_modified
+VND-102,BIOSYNTH GLOBAL LOGISTICS,United States,2023-11-02,19,245000 USD,"API, Biologics",2026-10-25 17:00:00
+VND-106,SterileFill Packaging Corp,india,2025-02-14,10,"$68,250.00","Packaging, Sterile",2026-10-12 13:10:00
+VND-107,Zenith Fine Chemicals,Switzerland,2024-05-30,,"95,400.50",API,2026-10-19 09:40:00
+VND-108,,Germany,2025-04-01,15,50000.00,Excipient,2026-10-11 12:00:00
